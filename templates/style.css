@@ -1,0 +1,27 @@
+html {background-image: url('Images/flowers2.png');}
+
+h1 {color: white;
+    text-align: center;
+    text-shadow: -3px 0 #abc4ff, 0 2px #abc4ff, 2px 0 #abc4ff, 0 -2px #abc4ff;
+}
+
+h3 { color: white;
+    text-align: center;
+    }
+
+body {background-image: url('Images/peri.png');
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-left: 100px;
+        margin-right: 100px;
+        padding-top: 30px;
+        padding-bottom: 30px;}
+
+
+
+    
+
+
+        
+
+
